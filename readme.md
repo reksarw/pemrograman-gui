@@ -10,4 +10,4 @@
 
 ### Tugas
 
- - Membuat Proyek Pertama dengan JavaFX
+ - Membuat Proyek Pertama dengan JavaFX (HelloFX/)
